@@ -1,2 +1,2 @@
-# Thermo_Rwanda
-preventing pandemic diseases
+# SmartHarvest
+AgriTech sector
